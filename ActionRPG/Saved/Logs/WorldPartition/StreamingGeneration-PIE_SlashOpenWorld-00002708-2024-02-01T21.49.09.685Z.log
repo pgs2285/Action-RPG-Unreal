@@ -1,0 +1,50 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/SlashOpenWorld
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:221C0584499A9977790651BF59B4F1BC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:221C0584499A9977790651BF59B4F1BC BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/SlashOpenWorld
+----------------------------------------------------------------------------------------------------------------
+SlashOpenWorld - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of SlashOpenWorld Persistent Level
+ |- Always loaded Actor Count: 7 
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/SlashOpenWorld
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/SlashOpenWorld
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/SlashOpenWorld
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/SlashOpenWorld
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/SlashOpenWorld/F/50/E32K80QIJKA33SEH12OVJX
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.WorldPartitionMiniMap_UAID_D85ED3C307EAF8D401_1343504679
+ |- Actor Package: /Game/__ExternalActors__/Maps/SlashOpenWorld/6/MC/FC2RCGWLMC0LOVY9C56PRI
+ |- Actor Path: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Maps/SlashOpenWorld
+
+----------------------------------------------------------------------------------------------------------------
+SlashOpenWorld - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
